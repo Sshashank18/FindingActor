@@ -1,5 +1,7 @@
 # Actor Recommendation System
 
+- https://www.kaggle.com/code/deucalionsash/findingactor (Kaggle Link)
+
 A comprehensive machine learning system that analyzes Bollywood actors' facial features and role traits to recommend the best actors for specific character requirements. The system combines computer vision, natural language processing, and deep learning to provide intelligent casting recommendations.
 
 ## Overview
